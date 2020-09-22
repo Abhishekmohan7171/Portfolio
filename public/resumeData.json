@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Abhishek Mohan",
+    "occupation": "Always be driven by the 'WANT' in you.",
+    "description": "",
+    "image": "profile2.jpg",
+    "bio": "My name is Abhishek, an enthusiastic Computer Engineer who is committed to learning and self-development,so can consistently achieve better results.I'm an aspiring Web Developer and a Blockchain enthusiast.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "abhishekmohan7171@gmail.com",
+    "phone": "+91-9539088276",
+    "address": {
+      "street": "MLA Road,Kovoor",
+      "city": "Kozhikode",
+      "state": "Kerala",
+      "zip": "673017"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1PHJmHPtZ2QB0XBHrrZYwxybrWiGFlqzt/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abhishek.mohan.716",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhishek-mohan-3438b8199/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abhishek____mohan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Abhishekmohan7171",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "SRM Institute of Science and Technology",
+        "degree": "Computer Science Engineering(Information Technology)",
+        "graduated": "2018 - Present",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Codechef SRM Chapter",
+        "title": "Corporate Team member",
+        "years": "August 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "IEEE SRM",
+        "title": "Graphic Designer",
+        "years": "August 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "Verzeo",
+        "title": "Machine Learning Intern",
+        "years": "Nov 2019 - April 2020",
+        "description": ""
+      },
+      {
+        "company": "MyCaptain",
+        "title": "Internship(Buissness Developement and Digital Marketing)",
+        "years": "August 2020 - Present",
+        "description": ""
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "Adobe Photoshop and Illustrator",
+        "level": "65%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      }
+      ,
+      {
+        "name": "MS Office",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Web Clone built with ReactJs where real time chatting can be done ,uses Firestore DB and is deployed using Firebase",
+        "image": "git.png",
+        "url": "https://whatsapp-clone-8fbc9.web.app/"
+      },
+      {
+        "title": "Women clothing E-commerce and Sentiment Analysis",
+        "category": "Data Analysis is done on the Dataset and Sentiment Analysis is done using NLP",
+        "image": "git.png",
+        "url": "https://github.com/Abhishekmohan7171/womens-clothing-e-commerce-reviews.csv"
+      }
+      ,
+      {
+        "title": "Startup Name Generator",
+        "category": "A basic FLutter app built where Startup names are generated and could choose the one we prefer.",
+        "image": "git.png",
+        "url": "https://github.com/Abhishekmohan7171/StartupName_Generator"
+      },
+      {
+        "title": "Death Prediction in Titanic Crash",
+        "category": "Logistic Regression model to predict Death in Titanic Crash.",
+        "image": "git.png",
+        "url": "https://github.com/Abhishekmohan7171/Death-Prediction-in-Titanic-Crash"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "user": "Winston Churchill"
+      }
+    ]
+  }
+}
